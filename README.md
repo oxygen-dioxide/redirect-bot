@@ -1,1 +1,1 @@
-# zh-redirect-bot
+# redirect-bot
